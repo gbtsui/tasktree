@@ -1,0 +1,13 @@
+Made by James Sanmartin Puig
+
+Step 1:
+Run read&write.py and follow instructions in terminal. Re run as many times as you please.
+
+Step 2:
+Run progress.py and follow instructions in terminal. Rerun until message "Clearing Database appears"
+
+Step 3:
+Check completed.txt for completed goals!
+
+Step 4:
+Repeat Steps 1 - 3 as may times as you wish.
