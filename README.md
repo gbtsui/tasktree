@@ -4,13 +4,17 @@ Created by
 - James - Prototyper
 - Eamon - Designer & Developer
 ![Untitled](https://github.com/user-attachments/assets/45ff569f-aa0c-4047-890c-033dcba0930b)
-
+<br>
 
 ## Abstract
 <img width="576" alt="diagram thing" src="https://github.com/user-attachments/assets/c32ce818-89dd-45dc-aef6-41f2fc8acc9e">
+<br>
 A failed experiment that was the product of around 8 hours of work and 4 separate mental breakdowns spread among our members.<br>
 Designed to be a project management system meant to break down complex, massive tasks into smaller, more manageable ones.<br>
 This repository contains both the "final" design (very broken, very unfinished) and the text engine demo (early prototype) created because TypeScript hates me too much.
+<br>
+
+
 ## Technologies
 - React.js
 - > ReactFlow
