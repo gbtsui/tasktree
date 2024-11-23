@@ -3,7 +3,11 @@ Created by
 - Gabriel - Developer
 - James - Prototyper
 - Eamon - Designer & Developer
+![Untitled](https://github.com/user-attachments/assets/45ff569f-aa0c-4047-890c-033dcba0930b)
+
+
 ## Abstract
+<img width="576" alt="diagram thing" src="https://github.com/user-attachments/assets/c32ce818-89dd-45dc-aef6-41f2fc8acc9e">
 A failed experiment that was the product of around 8 hours of work and 4 separate mental breakdowns spread among our members.<br>
 Designed to be a project management system meant to break down complex, massive tasks into smaller, more manageable ones.<br>
 This repository contains both the "final" design (very broken, very unfinished) and the text engine demo (early prototype) created because TypeScript hates me too much.
@@ -13,6 +17,7 @@ This repository contains both the "final" design (very broken, very unfinished) 
 - TypeScript
 - Vite
 - Python (Text Engine Demo)
+![image](https://github.com/user-attachments/assets/a26dce39-1225-4326-92f1-179d91e77f97)
 
 **NONE OF US HAVE ANY EXPERIENCE IN WEB DEVELOPMENT. WE LITERALLY JUST TRIED.**
 ## Principle of Mechanism
@@ -50,7 +55,8 @@ a very basic demo in Python while Gab continued to struggle with React. It is cu
 pie
     title Mental Breakdown Distribution
     "Gab" : 3
-    "James" : 1
+    "James" : 1![Uploading diagram thing.png…]()
+
     "Eamon" : 1 
 ```
 ## Next Steps
