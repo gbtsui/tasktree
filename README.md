@@ -1,8 +1,8 @@
 # tasktree
 Created by
-- Gabriel - Final Developer
+- Gabriel - Developer
 - James - Prototyper
-- Eamon - Developer
+- Eamon - Designer & Developer
 ## Abstract
 A failed experiment that was the product of around 8 hours of work and 4 separate mental breakdowns spread among our members.<br>
 Designed to be a project management system meant to break down complex, massive tasks into smaller, more manageable ones.<br>
@@ -33,7 +33,7 @@ TaskTree is intended to solve this issue and help procrastinating students do an
 - Organize tasks using a logical flow of order
 ### Graphical Progress
 - Graph task completion for the dopamine hits
-- I like pie graphs
+- We like pie graphs
 ### Reminder System
 - Periodic reminders for unfinished tasks
 - Notifications for tasks due soon
