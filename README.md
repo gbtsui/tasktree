@@ -59,8 +59,7 @@ a very basic demo in Python while Gab continued to struggle with React. It is cu
 pie
     title Mental Breakdown Distribution
     "Gab" : 3
-    "James" : 1![Uploading diagram thing.png…]()
-
+    "James" : 1
     "Eamon" : 1 
 ```
 ## Next Steps
