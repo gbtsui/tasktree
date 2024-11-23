@@ -1,0 +1,6 @@
+Main goal:
+Learn Java
+
+Sub tasks:
+Learn methods - Learn how methods work and how to use them.
+Learn arrays - Learn how arrays work and how to use them.
