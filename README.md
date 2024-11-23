@@ -53,3 +53,11 @@ pie
     "James" : 1
     "Eamon" : 1 
 ```
+## Next Steps
+1. Actually learn web development before taking on this project
+2. Create a functional prototype
+3. Allow it to save and export configurations
+4. Make a backend
+5. Turn it into a fully functional web app
+6. Actually use it because I unironically need this for school and I really really want to finish making this just so I don't become more of a disappointment than I already am
+7. Celebrate by eating a cake
