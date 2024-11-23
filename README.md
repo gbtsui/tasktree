@@ -61,3 +61,7 @@ pie
 5. Turn it into a fully functional web app
 6. Actually use it because I unironically need this for school and I really really want to finish making this just so I don't become more of a disappointment than I already am
 7. Celebrate by eating a cake
+8. Make it look better by using Tailwind CSS
+9. Remove all of the brainrot in the code and put it in the comments
+10. Stop being a depresso espresso
+11. Make public
